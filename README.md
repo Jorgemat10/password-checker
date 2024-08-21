@@ -10,7 +10,7 @@ This is a simple Password Strength Checker built with HTML, CSS, and JavaScript.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-checker.git
+   git clone https://github.com/Jorgemat10/password-checker.git
 
 ## About This Project
 This project was my first attempt at creating a simple password strength checker using JavaScript. The goal was to learn the basics of JavaScript, Git,HTML,CSS and GitHub by building something practical yet straightforward. The password checker is designed to evaluate passwords against a list of common weak passwords and provide feedback on the password's strength.
